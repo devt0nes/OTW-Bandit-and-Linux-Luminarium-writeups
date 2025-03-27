@@ -185,7 +185,7 @@ Of course, if your current working directory is `/`, the above relative paths ar
 
 This challenge will get you using `.` in your relative paths. Get ready!
 
-## Solution
+### Solution
 
 Again, first make `/` the `cwd` using `cd /`. Then, as we are supposed to use `.` (referring to the same/current directory) in our relative path `challenge/run`, enter `./challenge/run` or any other similar relative path (having `./` in the start) to get the flag.
 ```
